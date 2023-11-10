@@ -1,0 +1,8 @@
+android.app.Application
+android.view.View
+android.app.Activity
+android.content.Context
+android.content.res.AssetManager
+android.graphics.Bitmap
+android.content.res.Resources
+android.hardware.Camera$Size
